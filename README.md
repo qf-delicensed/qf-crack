@@ -10,5 +10,5 @@ https://cdn.discordapp.com/attachments/1019842915951988746/1054420826084098058/q
 
 **incase you say the discord download link is a rat you can verify its from qf since typing <#1019842915951988746> in qf's #general chat will actually spit out a channel called #download-mod**
 
-alright, now you wanna go ahead and download the open source class file from the github, look through it with recaf if you are still on edge,
-after that just open qf in winrar and drag my funny class file over and save it with a different name [preferably] and youre done
+alright, now you wanna go ahead and download the open source class file from the github, look through it with recaf if you are 
+still on edge, after that just open qf in winrar and drag my funny class file over and save it with a different name [preferably] and youre done
